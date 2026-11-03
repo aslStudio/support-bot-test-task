@@ -1,0 +1,7 @@
+{
+  "product": {"name": "Наушники X1", "available": true, "price_rub": 2490},
+  "delivery": {"method": "курьер", "when": "на следующий день", "window": "18:00–21:00"},
+  "returns": {"days": 14, "refund_to": "ту же карту", "refund_in_business_days": 3, "opened_without_defect_allowed": true},
+  "defect": {"requires_examination": true, "immediate_refund_promised": false},
+  "discounts": {"available": false}
+}

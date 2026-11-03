@@ -1,0 +1,12 @@
+services:
+  bot:
+    build: .
+    env_file: .env
+    environment:
+      BOT_DB_PATH: /data/demo.sqlite3
+    volumes:
+      - bot_data:/data
+    restart: unless-stopped
+
+volumes:
+  bot_data:

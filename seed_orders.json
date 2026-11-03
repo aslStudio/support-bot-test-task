@@ -1,0 +1,5 @@
+[
+  {"id": "1001", "product": "Наушники X1", "status": "собирается", "delivery_note": null},
+  {"id": "1002", "product": "Наушники X1", "status": "передан курьеру", "delivery_note": "Демо-запись: слот 18:00–21:00"},
+  {"id": "1003", "product": "Наушники X1", "status": "доставлен", "delivery_note": null}
+]
